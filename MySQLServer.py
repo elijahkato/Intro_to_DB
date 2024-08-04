@@ -3,8 +3,8 @@ from mysql.connector import errorcode
 
 # Database configuration
 config = {
-    'user': 'kato',
-    'password': 'privatepass',
+    'user': 'your_username',
+    'password': 'your_password',
     'host': 'localhost',
 }
 
